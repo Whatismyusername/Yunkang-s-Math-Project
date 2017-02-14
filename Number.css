@@ -1,0 +1,59 @@
+#MainDiv{
+    height:700px;
+    width:1000px;
+    border:#000000 solid 10px;
+    margin-left:auto;
+    margin-right:auto;
+    background-image:url("1.png");
+    background-size:100% 100%;
+}
+#NumberShow{
+    height:200px;
+    width:200px;
+    border-radius:100%;
+    border:#000000 solid 5px;
+    margin-left:auto;
+    margin-right:auto;
+}
+#NumberShow2{
+    height:60px;
+    width:200px;
+    font-size:50px;
+    margin-top:60px;
+    text-align:center;
+}
+#Title{
+    text-align:center;
+    font-family:Bungee Shade;
+    font-size:50px;
+}
+#button{
+    margin-left:auto;
+    margin-right:auto;
+    height:50px;
+    width:200px;
+}
+button{
+    font-family:Pangolin;
+    font-size:20px;
+    height:50px;
+    width:200px;
+}
+#ByDiv{
+    margin-top:95px;
+}
+#By{
+    font-family:Pangolin;
+    font-size:20px;
+    color:orange;
+    text-align:right;
+}
+#LOL{
+    margin-top:75px;
+    height:40px;
+    text-align:center;
+}
+a{
+    color:black;
+    text-decoration:none;
+}
